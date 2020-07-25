@@ -13,3 +13,6 @@ contenido rápidamente.
 
 -al presionar el botón de enviar un Spiner de carga deberá mostrarse y se controlará el tiempo que se muestra para luego mostrar
 un mensaje.
+
+Para ver el proyecto en funcionamiento:
+https://www.youtube.com/watch?v=8C1TTEs8e-4

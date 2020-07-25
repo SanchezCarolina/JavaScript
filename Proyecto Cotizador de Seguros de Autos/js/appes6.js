@@ -1,5 +1,6 @@
 // Cotizador Constructor
 
+
 // Constructor para seguro
 class Seguro{
 
@@ -138,17 +139,17 @@ formulario.addEventListener('submit', function(e){
 
     }else{
         // limpiar resultados anteriores
-        /*const resultados = document.querySelector('#resultado div');
-        if(resultado != null){
+        const resultados = document.querySelector('#resultado div');
+        if(resultados != null){
             resultados.remove();
-        }*/
+        }
         
 
         // instanciar seguro y mostrar interfaz
         const seguro = new Seguro(marcaSeleccionada, anioSelccionado, tipo);
 
         // cotizar el seguro
-        const cantidad = seguro.cotizarSeguro();
+        const cantidad = seguro.cotizarSeguro(seguro);
 
         // mostrar el resultado
         interfaz.mostrarResultado(seguro, cantidad);

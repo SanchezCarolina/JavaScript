@@ -13,3 +13,6 @@ Ahora sus características más importantes son éstas.
 -Una vez que hemos llegado al 50 por ciento del gasto se mostrará el restante en color amarillo es como una advertencia de que
 nos estamos acercando a consumir todo el presupuesto;
 -y una vez que lleguemos al 75 por ciento se mostrará el restante en color rojo indicando que se esta acabando el presupuesto.
+
+Para ver el proyecto en funcionamiento:
+https://www.youtube.com/watch?v=fVMaZnZA8ho

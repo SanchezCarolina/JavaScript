@@ -16,3 +16,6 @@ realizando los cálculos.
 
 -finalmente nos entrega un resumen y este resumen le dice al usuario que ha auto ha cotizado, que año y cual es el monto total
 del seguro.
+
+Para ver el proyecto en funcionamiento:
+https://www.youtube.com/watch?v=VBGNxi1b1G8
